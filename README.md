@@ -3,6 +3,7 @@
 ## Algorithm
 ### Classification
 * KNeighbor
+* RandomForest
 
 ### Regression
 
