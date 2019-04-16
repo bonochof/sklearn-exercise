@@ -4,6 +4,7 @@
 ### Classification
 * KNeighbor
 * RandomForest
+* Tree
 
 ### Regression
 
