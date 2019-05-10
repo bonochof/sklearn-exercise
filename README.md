@@ -4,8 +4,10 @@
 ### Classification
 * KNeighbor
 * RandomForest
+* Tree
 
 ### Regression
+
 
 ## Author
 [bonochof](https://github.com/bonochof)
