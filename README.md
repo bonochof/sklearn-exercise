@@ -3,7 +3,7 @@
 ## Algorithm
 ### Classification
 * KNeighbor
-
+* Logistic
 * RandomForest
 * Tree
 
