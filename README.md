@@ -2,13 +2,11 @@
 
 ## Algorithm
 ### Classification
-* KNeighbor
-* Logistic
-* RandomForest
-* Tree
+1. KNeighbor
+1. Logistic
 
 ### Regression
-* Linear
+1. Linear
 
 ## Author
 [bonochof](https://github.com/bonochof)
