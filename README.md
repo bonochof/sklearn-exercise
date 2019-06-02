@@ -5,6 +5,7 @@
 1. KNeighbor
 1. Logistic
 
+
 ### Regression
 1. Linear
 
