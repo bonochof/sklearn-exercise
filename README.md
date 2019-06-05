@@ -4,7 +4,7 @@
 ### Classification
 1. KNeighbor
 1. Logistic
-
+1. SVM
 
 ### Regression
 1. Linear
