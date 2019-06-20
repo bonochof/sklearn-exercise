@@ -5,6 +5,7 @@
 1. KNeighbor
 1. Logistic
 1. SVM
+1. CART
 
 ### Regression
 1. Linear
