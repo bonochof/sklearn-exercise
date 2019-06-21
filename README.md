@@ -9,6 +9,7 @@
 
 ### Regression
 1. Linear
+1. CART
 
 ## Author
 [bonochof](https://github.com/bonochof)
